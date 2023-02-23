@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond,ballImpulseForce,ballLifeSeconds,minSpawnSeconds,maxSpawnSeconds,ballsPerGame,redPoints,yellowPoints,orangePoints,greenPoints,bluePoints,purplePoints
+35,2000,15,5,10,5,50,100,150,200,250,300
